@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- Graduated with a Masters in Chemistry from the University of East anglia. 
+
+- Worked in a synthetic inorganic lab making homogeneous organomettalic catalysts.
+
+- Huge Avgeek and aspiring with a large passion for spaceflight.
+
+
 <!--
 **benparanrutterford/benparanrutterford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
